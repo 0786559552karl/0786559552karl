@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--
+🤖 WhatsApp Bot - [Karl Al]
+
+A multi-device WhatsApp chatbot built using *Baileys* or *Sadiya-MD* framework. This bot can respond to commands, automate replies, and more!
+
 **0786559552karl/0786559552karl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
